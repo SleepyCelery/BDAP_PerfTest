@@ -1,0 +1,18 @@
+BlockSize: 1 MiB, BigFileSize: 1024 MiB, SmallFileSize: 128 KiB, SmallFileCount: 100, NumThreads: 8
+Time used: 545.7 s, CPU: 101.8%, Memory: 1065.9 MiB
++------------------+-------------------+----------------+
+|       ITEM       |       VALUE       |      COST      |
++------------------+-------------------+----------------+
+|   Write big file |       20.42 MiB/s |  401.17 s/file |
+|    Read big file |       91.81 MiB/s |   89.23 s/file |
+| Write small file |      49.8 files/s | 160.75 ms/file |
+|  Read small file |    1159.5 files/s |   6.90 ms/file |
+|        Stat file |    4481.1 files/s |   1.79 ms/file |
+|   FUSE operation | 153637 operations |   114.28 ms/op |
+|      Update meta |  72634 operations |    26.47 ms/op |
+|       Put object |  54494 operations |   180.79 ms/op |
+|       Get object |   5779 operations |   609.73 ms/op |
+|    Delete object |      0 operations |     0.00 ms/op |
+| Write into cache |  52345 operations |     5.37 ms/op |
+|  Read from cache |  54209 operations |   266.10 ms/op |
++------------------+-------------------+----------------+
