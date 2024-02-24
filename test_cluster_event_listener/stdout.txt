@@ -1,0 +1,507 @@
+Handled 100 events
+
+                Cost time: 0.4811725616455078 seconds,
+                average time: 0.0048 seconds per event
+                
+Handled 200 events
+
+                Cost time: 0.7815814018249512 seconds,
+                average time: 0.0039 seconds per event
+                
+Handled 300 events
+
+                Cost time: 1.098768949508667 seconds,
+                average time: 0.0037 seconds per event
+                
+Handled 400 events
+
+                Cost time: 1.3992021083831787 seconds,
+                average time: 0.0035 seconds per event
+                
+Handled 500 events
+
+                Cost time: 1.7382423877716064 seconds,
+                average time: 0.0035 seconds per event
+                
+Handled 600 events
+
+                Cost time: 2.064894199371338 seconds,
+                average time: 0.0034 seconds per event
+                
+Handled 700 events
+
+                Cost time: 2.4203062057495117 seconds,
+                average time: 0.0035 seconds per event
+                
+Handled 800 events
+
+                Cost time: 2.7583391666412354 seconds,
+                average time: 0.0034 seconds per event
+                
+Handled 900 events
+
+                Cost time: 3.070478916168213 seconds,
+                average time: 0.0034 seconds per event
+                
+Handled 1000 events
+
+                Cost time: 3.3870699405670166 seconds,
+                average time: 0.0034 seconds per event
+                
+Handled 1100 events
+
+                Cost time: 3.7263519763946533 seconds,
+                average time: 0.0034 seconds per event
+                
+Handled 1200 events
+
+                Cost time: 4.0747270584106445 seconds,
+                average time: 0.0034 seconds per event
+                
+Handled 1300 events
+
+                Cost time: 4.387186527252197 seconds,
+                average time: 0.0034 seconds per event
+                
+Handled 1400 events
+
+                Cost time: 4.686528205871582 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 1500 events
+
+                Cost time: 5.020615816116333 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 1600 events
+
+                Cost time: 5.332283020019531 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 1700 events
+
+                Cost time: 5.6289989948272705 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 1800 events
+
+                Cost time: 5.935784816741943 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 1900 events
+
+                Cost time: 6.284202337265015 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 2000 events
+
+                Cost time: 6.627613306045532 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 2100 events
+
+                Cost time: 6.930843353271484 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 2200 events
+
+                Cost time: 7.275084495544434 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 2300 events
+
+                Cost time: 7.607753753662109 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 2400 events
+
+                Cost time: 7.9020233154296875 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 2500 events
+
+                Cost time: 8.18674111366272 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 2600 events
+
+                Cost time: 8.46374249458313 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 2700 events
+
+                Cost time: 8.808257818222046 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 2800 events
+
+                Cost time: 9.167852640151978 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 2900 events
+
+                Cost time: 9.514092683792114 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 3000 events
+
+                Cost time: 9.860538244247437 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 3100 events
+
+                Cost time: 10.198613166809082 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 3200 events
+
+                Cost time: 10.531136989593506 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 3300 events
+
+                Cost time: 10.86952543258667 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 3400 events
+
+                Cost time: 11.216048955917358 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 3500 events
+
+                Cost time: 11.556473731994629 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 3600 events
+
+                Cost time: 11.874127626419067 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 3700 events
+
+                Cost time: 12.212616205215454 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 3800 events
+
+                Cost time: 12.555756092071533 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 3900 events
+
+                Cost time: 12.86691427230835 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 4000 events
+
+                Cost time: 13.162239074707031 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 4100 events
+
+                Cost time: 13.423837900161743 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 4200 events
+
+                Cost time: 13.6768639087677 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 4300 events
+
+                Cost time: 13.923589706420898 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 4400 events
+
+                Cost time: 14.237853765487671 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 4500 events
+
+                Cost time: 14.573807001113892 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 4600 events
+
+                Cost time: 14.912835597991943 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 4700 events
+
+                Cost time: 15.250586032867432 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 4800 events
+
+                Cost time: 15.583446502685547 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 4900 events
+
+                Cost time: 15.92582893371582 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 5000 events
+
+                Cost time: 16.269805192947388 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 5100 events
+
+                Cost time: 16.615952253341675 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 5200 events
+
+                Cost time: 16.91940426826477 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 5300 events
+
+                Cost time: 17.258564472198486 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 5400 events
+
+                Cost time: 17.590092182159424 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 5500 events
+
+                Cost time: 17.904945373535156 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 5600 events
+
+                Cost time: 18.23199200630188 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 5700 events
+
+                Cost time: 18.556848526000977 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 5800 events
+
+                Cost time: 18.859587907791138 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 5900 events
+
+                Cost time: 19.165640592575073 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 6000 events
+
+                Cost time: 19.459876775741577 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 6100 events
+
+                Cost time: 19.80548596382141 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 6200 events
+
+                Cost time: 20.14256525039673 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 6300 events
+
+                Cost time: 20.479856729507446 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 6400 events
+
+                Cost time: 20.82394528388977 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 6500 events
+
+                Cost time: 21.1636061668396 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 6600 events
+
+                Cost time: 21.470359325408936 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 6700 events
+
+                Cost time: 21.76458764076233 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 6800 events
+
+                Cost time: 22.1083767414093 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 6900 events
+
+                Cost time: 22.451483249664307 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 7000 events
+
+                Cost time: 22.769356727600098 seconds,
+                average time: 0.0033 seconds per event
+                
+Handled 7100 events
+
+                Cost time: 23.056984424591064 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 7200 events
+
+                Cost time: 23.323566675186157 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 7300 events
+
+                Cost time: 23.588656902313232 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 7400 events
+
+                Cost time: 23.834054470062256 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 7500 events
+
+                Cost time: 24.07637119293213 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 7600 events
+
+                Cost time: 24.37295413017273 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 7700 events
+
+                Cost time: 24.615356922149658 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 7800 events
+
+                Cost time: 24.862932920455933 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 7900 events
+
+                Cost time: 25.124470710754395 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 8000 events
+
+                Cost time: 25.433452367782593 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 8100 events
+
+                Cost time: 25.75749111175537 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 8200 events
+
+                Cost time: 26.084123849868774 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 8300 events
+
+                Cost time: 26.42435932159424 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 8400 events
+
+                Cost time: 26.764614582061768 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 8500 events
+
+                Cost time: 27.10459804534912 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 8600 events
+
+                Cost time: 27.439669609069824 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 8700 events
+
+                Cost time: 27.756495714187622 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 8800 events
+
+                Cost time: 28.04279112815857 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 8900 events
+
+                Cost time: 28.36892056465149 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 9000 events
+
+                Cost time: 28.697622537612915 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 9100 events
+
+                Cost time: 28.98389506340027 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 9200 events
+
+                Cost time: 29.269996166229248 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 9300 events
+
+                Cost time: 29.609461069107056 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 9400 events
+
+                Cost time: 29.960636615753174 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 9500 events
+
+                Cost time: 30.30388593673706 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 9600 events
+
+                Cost time: 30.616759538650513 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 9700 events
+
+                Cost time: 30.94975471496582 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 9800 events
+
+                Cost time: 31.286852598190308 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 9900 events
+
+                Cost time: 31.616666555404663 seconds,
+                average time: 0.0032 seconds per event
+                
+Handled 10000 events
+
+                Cost time: 31.95438575744629 seconds,
+                average time: 0.0032 seconds per event
+                
+
+        All events handled.
+        Total time: 31.954411029815674 seconds,
+        handled 10000 events,
+        average time: 0.0032 seconds per event,
+        handle speed: 312.9458 events per second
+        
