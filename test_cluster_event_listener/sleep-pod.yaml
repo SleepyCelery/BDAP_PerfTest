@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: sleep-pod
+  namespace: bdap  # 替换为你的命名空间
+spec:
+  nodeSelector:
+    bdap_node_type: compute  # 替换为你的节点名称
+    bdap_compute_resource_type: cpu  # 替换为你的节点类型
+  containers:
+    - name: sleep-container
+      image: ubuntu
+      command: [ "bash", "-c", "while true; do sleep 10; done" ]
+  

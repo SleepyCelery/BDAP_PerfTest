@@ -1,0 +1,1 @@
+juicefs bench ~/jfs_mount -p 8
